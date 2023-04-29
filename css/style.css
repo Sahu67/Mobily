@@ -319,6 +319,7 @@ p {
 	box-shadow: 4px 8px 30px rgba(0, 0, 0, 0.1);
 }
 .deal-banners > img:hover {
+	cursor: pointer;
 	box-shadow: 4px 8px 10px rgba(0, 0, 0, 0.2);
 }
 
@@ -347,6 +348,7 @@ p {
 	margin-top: 10px;
 }
 .model-card:hover {
+	cursor: pointer;
 	box-shadow: 4px 8px 10px rgba(0, 0, 0, 0.2);
 }
 .model-card > img {
