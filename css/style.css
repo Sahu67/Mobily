@@ -295,7 +295,7 @@ p {
 }
 .content-title {
 	display: flex;
-	align-items: center;
+	align-items: flex-start;
 	margin: 20px 0 10px;
 	gap: 30px;
 }
