@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Xiomi Redmi Note 3",
+        "imgUrl": "images/mobiles/mob_note3.png"
+    },
+    {
+        "name": "Apple iPhone 6",
+        "imgUrl": "images/mobiles/mob_iphone6.png"
+    },
+    {
+        "name": "Redmi Note 5 pro",
+        "imgUrl": "images/mobiles/mob_note5pro.png"
+    },
+    {
+        "name": "Apple iPhone 7",
+        "imgUrl": "images/mobiles/mob_iphone7.png"
+    },
+    {
+        "name": "Poco X3 pro",
+        "imgUrl": "images/mobiles/mob_x3pro.jpg"
+    },
+    {
+        "name": "Apple iPhone 13 pro",
+        "imgUrl": "images/mobiles/mob_iphone13pro.jpg"
+    }
+]

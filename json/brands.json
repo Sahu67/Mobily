@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Apple",
+        "imgUrl": "images/brands/apple.png"
+    },
+    {
+        "name": "MI",
+        "imgUrl": "images/brands/mi.png"
+    },
+    {
+        "name": "Samsung",
+        "imgUrl": "images/brands/samsung.png"
+    },
+    {
+        "name": "Vivo",
+        "imgUrl": "images/brands/vivo.png"
+    },
+    {
+        "name": "OnePlus",
+        "imgUrl": "images/brands/oneplus.jpg"
+    },
+    {
+        "name": "Oppo",
+        "imgUrl": "images/brands/oppo.jpg"
+    },
+    {
+        "name": "Poco",
+        "imgUrl": "images/brands/poco.jpg"
+    },
+    {
+        "name": "Honor",
+        "imgUrl": "images/brands/honor.jpg"
+    },
+    {
+        "name": "Realme",
+        "imgUrl": "images/brands/realme.jpg"
+    },
+    {
+        "name": "Iqoo",
+        "imgUrl": "images/brands/iqoo.jpg"
+    }
+]
